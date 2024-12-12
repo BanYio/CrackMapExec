@@ -1,10 +1,10 @@
-#🚨 Enumeración de Active Directory con CrackMapExec 🚨
+## 🚨 Enumeración de Active Directory con CrackMapExec 🚨
 
 
 
 He preparado una guía básica sobre #crackmapexec, una herramienta imprescindible para realizar pruebas de penetración en redes #Windows y #AD 🔐
 
-##🔍 ¿Qué puedes hacer con #CME? 🔍
+🔍 ¿Qué puedes hacer con #CME? 🔍
 
       - Enumerar máquinas y recursos compartidos 🖥️
 
